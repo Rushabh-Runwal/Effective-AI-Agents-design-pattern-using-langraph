@@ -5,7 +5,7 @@ This repository contains Google Colab notebooks and detailed video walkthroughs 
 > 📅 **Assignment Deadline:** April 27, 11:59 PM (Locked)
 ---
 
-## 📹 [Video Walkthrough]([www.youtube.com](https://youtu.be/CAK62r68hIA))
+## 📹 [Video Walkthrough](https://youtu.be/CAK62r68hIA)
 
 - A **detailed video walkthrough** explains:
   - Code structure and agent patterns.
