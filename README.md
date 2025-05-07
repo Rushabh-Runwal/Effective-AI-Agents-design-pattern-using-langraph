@@ -18,8 +18,8 @@ This repository contains Google Colab notebooks and detailed video walkthroughs 
 ## 📦 Repository Overview
 
 In this assignment, I implemented **agent patterns** from the *Building Effective Agents* course using two major frameworks:
-- ✅ [**LangGraph API** (with LangSmith Studio traces)](https://colab.research.google.com/drive/1XHB6ZaMdSmMJ0xJlwAZeKeOVtA1VQwVx?usp=sharing)
-- ✅ [**CrewAI**](https://colab.research.google.com/drive/1dvpDOjuHfsl678Iwe7bHb1U1Z8h4SaZ3?usp=sharing)
+- ✅ [**LangGraph API** (with LangSmith Studio traces)](https://colab.research.google.com/drive/1w6ouWeQi6neEFrMflon0k3PW-v1_oB1b?usp=sharing)
+- ✅ [**CrewAI**](https://colab.research.google.com/drive/1w6ouWeQi6neEFrMflon0k3PW-v1_oB1b?usp=sharing)
 
 For each framework, I:
 - Created a dedicated Google Colab notebook.
