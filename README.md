@@ -18,8 +18,8 @@ This repository contains Google Colab notebooks and detailed video walkthroughs 
 ## 📦 Repository Overview
 
 In this assignment, I implemented **agent patterns** from the *Building Effective Agents* course using two major frameworks:
-- ✅ [**LangGraph API** (with LangSmith Studio traces)](https://colab.research.google.com/drive/1w6ouWeQi6neEFrMflon0k3PW-v1_oB1b?usp=sharing)
-- ✅ [**CrewAI**](https://colab.research.google.com/drive/1w6ouWeQi6neEFrMflon0k3PW-v1_oB1b?usp=sharing)
+- ✅ [**LangGraph API** (with LangSmith Studio traces)](https://colab.research.google.com/drive/1OSIQAKcUAAYUv7TVn4CBxDPH_NJDpGtj?usp=sharing)
+- ✅ [**CrewAI**](https://colab.research.google.com/drive/1qXGuM56noMI9QuT4Y1G8l8qzxIcrgJQF?usp=sharing)
 
 For each framework, I:
 - Created a dedicated Google Colab notebook.
@@ -40,14 +40,14 @@ For each framework, I:
 
 ## 🚀 Colab Notebooks
 
-### 1️⃣ LangGraph API Colab
+### 1️⃣ [LangGraph API Colab](https://colab.research.google.com/drive/1OSIQAKcUAAYUv7TVn4CBxDPH_NJDpGtj?usp=sharing)
 - Implements core agent patterns using the **LangGraph API**.
 - Demonstrates integration with **LangSmith Studio** for trace visualizations.
 - Includes:
   - Agent setup and workflow design.
   - Debug traces and visual outputs.
 
-### 2️⃣ CrewAI-Based Agents Colab
+### 2️⃣ [CrewAI-Based Agents Colab](https://colab.research.google.com/drive/1qXGuM56noMI9QuT4Y1G8l8qzxIcrgJQF?usp=sharing)
 - Reimplements the same patterns using **CrewAI**.
 - Explores parallel and sequential agent workflows.
 - Optionally integrates Grok or similar tools for enhanced execution.
